@@ -16,6 +16,14 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+
 
 # Serverless directories
 .serverless
